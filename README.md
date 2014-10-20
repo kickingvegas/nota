@@ -4,7 +4,7 @@ A command line utility to post a notification to the OS X Notification Center.
 
 ## Installation
 
-By default, **nota** is installed in the user's `HOME` directory.
+By default, **nota** is installed in the user's `$HOME/bin` directory.
 
 To install, run `make install` at the command line:
 
